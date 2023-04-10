@@ -91,7 +91,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="9">
       <a class="tools-hover" href="https://www.bilibili.com/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/media/bili.ico"
+          ><img class="tools-img" src="@/assets/media/bili.ico"
         /></div>
         <div class="content">
           <span class="title">哔哩哔哩</span>
