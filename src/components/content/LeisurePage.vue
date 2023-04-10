@@ -104,7 +104,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="10">
       <a class="tools-hover" href="http://www.chinaunix.net/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="http://cxysite.com/static/img/ltzx/cu.png"
+          ><img class="tools-img" src="@/assets/ltzx/cu.png"
         /></div>
         <div class="content">
           <span class="title">空间站对接</span>

@@ -5,7 +5,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="1">
       <a class="tools-hover" href="https://www.cnblogs.com/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="http://cxysite.com/static/img/ltzx/cnblogs.png"
+          ><img class="tools-img" src="@/assets/ltzx/cnblogs.png"
         /></div>
         <div class="content">
           <span class="title">博客园</span>
@@ -16,7 +16,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="2">
       <a class="tools-hover" href="https://www.csdn.net/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="http://cxysite.com/static/img/ltzx/csdn.png"
+          ><img class="tools-img" src="@/assets/ltzx/csdn.png"
         /></div>
         <div class="content">
           <span class="title">CSDN</span>
@@ -27,7 +27,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="3">
       <a class="tools-hover" href="https://www.oschina.net/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="http://cxysite.com/static/img/ltzx/oschina(1).ico"
+          ><img class="tools-img" src="@/assets/ltzx/oschina.ico"
         /></div>
         <div class="content">
           <span class="title">开源中国</span>
@@ -38,7 +38,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="4">
       <a class="tools-hover" href="https://segmentfault.com/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="http://cxysite.com/static/img/ltzx/sf.ico"
+          ><img class="tools-img" src="@/assets/ltzx/sf.ico"
         /></div>
         <div class="content">
           <span class="title">SF思否</span>
@@ -49,7 +49,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="5">
       <a class="tools-hover" href="https://juejin.im/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="http://cxysite.com/static/img/ltzx/juejin.png"
+          ><img class="tools-img" src="@/assets/ltzx/juejin.png"
         /></div>
         <div class="content">
           <span class="title">掘金</span>
@@ -60,7 +60,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="6">
       <a class="tools-hover" href="https://www.51cto.com/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="http://cxysite.com/static/img/ltzx/51.ico"
+          ><img class="tools-img" src="@/assets/ltzx/51.ico"
         /></div>
         <div class="content">
           <span class="title">51CTO</span>
@@ -71,7 +71,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="7">
       <a class="tools-hover" href="https://toutiao.io/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="http://cxysite.com/static/img/ltzx/toutiao.png"
+          ><img class="tools-img" src="@/assets/ltzx/toutiao.png"
         /></div>
         <div class="content">
           <span class="title">开发者头条</span>
@@ -82,7 +82,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="8">
       <a class="tools-hover" href="https://xie.infoq.cn/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="http://cxysite.com/static/img/ltzx/InfoQ.jpg"
+          ><img class="tools-img" src="@/assets/ltzx/InfoQ.jpg"
         /></div>
         <div class="content">
           <span class="title">InfoQ</span>
@@ -93,7 +93,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="9">
       <a class="tools-hover" href="https://stackoverflow.com/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="http://cxysite.com/static/img/ltzx/stackoverflow.svg"
+          ><img class="tools-img" src="@/assets/ltzx/stackoverflow.svg"
         /></div>
         <div class="content">
           <span class="title">StackOverflow</span>
@@ -104,7 +104,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="10">
       <a class="tools-hover" href="http://www.chinaunix.net/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="http://cxysite.com/static/img/ltzx/cu.png"
+          ><img class="tools-img" src="@/assets/ltzx/cu.png"
         /></div>
         <div class="content">
           <span class="title">ChinaUnix</span>
@@ -115,7 +115,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="11">
       <a class="tools-hover" href="https://studygolang.com/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="http://cxysite.com/static/img/ltzx/golang.ico"
+          ><img class="tools-img" src="@/assets/ltzx/golang.ico"
         /></div>
         <div class="content">
           <span class="title">Golang中文社区</span>
@@ -126,7 +126,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="12">
       <a class="tools-hover" href="https://ruby-china.org/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="http://cxysite.com/static/img/ltzx/ruby.png"
+          ><img class="tools-img" src="@/assets/ltzx/ruby.png"
         /></div>
         <div class="content">
           <span class="title">Ruby china</span>

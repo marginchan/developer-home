@@ -34,7 +34,7 @@
         <a class="tools-link" href="https://tool.lu/hexconvert/" target="blank">
           <img
             class="tools-img"
-            src="http://cxysite.com/static/img/cygj/hexconvert.png"
+            src="@/assets/cygj/hexconvert.png"
           />&nbsp;进制转换
         </a>
       </div>
@@ -42,7 +42,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="5">
       <div class="tools-width">
         <a class="tools-link" href="https://tool.lu/ip/" target="blank">
-          <img class="tools-img" src="http://cxysite.com/static/img/cygj/ip.png" />&nbsp;IP地址查询
+          <img class="tools-img" src="@/assets/cygj/ip.png" />&nbsp;IP地址查询
         </a>
       </div>
     </a-col>
@@ -51,7 +51,7 @@
         <a class="tools-link" href="https://tool.lu/base64image/" target="blank"
           ><img
             class="tools-img"
-            src="http://cxysite.com/static/img/cygj/base64.png"
+            src="@/assets/cygj/base64.png"
           />&nbsp;图片base64编码</a
         >
       </div>
@@ -61,7 +61,7 @@
         <a class="tools-link" href="https://tool.lu/coderunner/" target="blank"
           ><img
             class="tools-img"
-            src="http://cxysite.com/static/img/cygj/code.png"
+            src="@/assets/cygj/code.png"
           />&nbsp;在线代码测试</a
         >
       </div>
@@ -71,7 +71,7 @@
         <a class="tools-link" href="https://tool.oschina.net/regex/" target="blank">
           <img
             class="tools-img"
-            src="http://cxysite.com/static/img/cygj/oschina.ico"
+            src="@/assets/cygj/oschina.ico"
           />&nbsp;正则表达式测试
         </a>
       </div>
@@ -81,7 +81,7 @@
         <a class="tools-link" href="https://tool.lu/urlconvert/" target="blank">
           <img
             class="tools-img"
-            src="http://cxysite.com/static/img/cygj/down.png"
+            src="@/assets/cygj/down.png"
           />&nbsp;下载链接转换工具
         </a>
       </div>
@@ -101,7 +101,7 @@
         <a class="tools-link" href="https://tool.lu/curl/" target="blank"
           ><img
             class="tools-img"
-            src="http://cxysite.com/static/img/cygj/curl.png"
+            src="@/assets/cygj/curl.png"
           />&nbsp;curl命令转代码</a
         >
       </div>
@@ -111,7 +111,7 @@
         <a class="tools-link" href="https://tool.lu/zhconvert" target="blank"
           ><img
             class="tools-img"
-            src="http://cxysite.com/static/img/cygj/zf.png"
+            src="@/assets/cygj/zf.png"
           />&nbsp;中文简繁体转换</a
         >
       </div>
@@ -121,7 +121,7 @@
         <a class="tools-link" href="https://tool.gaodun.com/rmb.html" target="blank">
           <img
             class="tools-img"
-            src="http://cxysite.com/static/img/cygj/dx.png"
+            src="@/assets/cygj/dx.png"
           />&nbsp;数字大写转换器
         </a>
       </div>
@@ -131,7 +131,7 @@
         <a class="tools-link" href="https://cli.im/" target="blank">
           <img
             class="tools-img"
-            src="http://cxysite.com/static/img/cygj/er.png"
+            src="@/assets/cygj/er.png"
           />&nbsp;二维码制作工具
         </a>
       </div>
@@ -139,7 +139,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="15">
       <div class="tools-width">
         <a class="tools-link" href="https://tool.lu/encdec/" target="blank">
-          <img class="tools-img" src="http://cxysite.com/static/img/cygj/jj.png" />&nbsp;加密解密
+          <img class="tools-img" src="@/assets/cygj/jj.png" />&nbsp;加密解密
         </a>
       </div>
     </a-col>
@@ -148,7 +148,7 @@
         <a class="tools-link" href="https://tool.lu/crontab" target="blank"
           ><img
             class="tools-img"
-            src="http://cxysite.com/static/img/cygj/cron.png"
+            src="@/assets/cygj/cron.png"
           />&nbsp;Cron表达式</a
         >
       </div>
@@ -156,7 +156,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="17">
       <div class="tools-width">
         <a class="tools-link" href="https://www.photopea.com/" target="blank"
-          ><img class="tools-img" src="http://cxysite.com/static/img/cygj/ps.png" />&nbsp;在线PS</a
+          ><img class="tools-img" src="@/assets/cygj/ps.png" />&nbsp;在线PS</a
         >
       </div>
     </a-col>
@@ -165,7 +165,7 @@
         <a class="tools-link" href="http://favorites.ren/" target="blank">
           <img
             class="tools-img"
-            src="http://cxysite.com/static/img/cygj/favorites.ico"
+            src="@/assets/cygj/favorites.ico"
           />&nbsp;在线收藏网址
         </a>
       </div>
@@ -173,14 +173,14 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="19">
       <div class="tools-width">
         <a class="tools-link" href="https://fanyi.baidu.com/translate" target="blank">
-          <img class="tools-img" src="http://cxysite.com/static/img/cygj/bf.ico" />&nbsp;百度翻译
+          <img class="tools-img" src="@/assets/cygj/bf.ico" />&nbsp;百度翻译
         </a>
       </div>
     </a-col>
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="20">
       <div class="tools-width">
         <a class="tools-link" href="https://translate.google.cn/" target="blank">
-          <img class="tools-img" src="http://cxysite.com/static/img/cygj/gf.ico" />&nbsp;谷歌翻译
+          <img class="tools-img" src="@/assets/cygj/gf.ico" />&nbsp;谷歌翻译
         </a>
       </div>
     </a-col>
@@ -189,7 +189,7 @@
         <a class="tools-link" href="https://convertio.co/zh/" target="blank"
           ><img
             class="tools-img"
-            src="http://cxysite.com/static/img/cygj/convertio.ico"
+            src="@/assets/cygj/convertio.ico"
           />&nbsp;文件格式转换</a
         >
       </div>
