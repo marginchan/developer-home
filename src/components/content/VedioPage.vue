@@ -79,17 +79,6 @@
         </div>
       </a>
     </a-col>
-    <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="8">
-      <a class="tools-hover" href="https://svip.bljiex.cc/" target="blank">
-        <div class="icon"
-          ><img class="tools-img" src="https://svip.bljiex.cc/favicon.ico"
-        /></div>
-        <div class="content">
-          <span class="title">BL解析</span>
-          <p class="description">VIP视频在线解析</p>
-        </div>
-      </a>
-    </a-col>
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="9">
       <a class="tools-hover" href="https://www.nunuyy.cc/" target="blank">
         <div class="icon"

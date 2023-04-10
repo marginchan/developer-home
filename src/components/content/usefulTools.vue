@@ -22,13 +22,6 @@
         >
       </div>
     </a-col>
-    <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="3">
-      <div class="tools-width">
-        <a class="tools-link" href="http://hemin.cn/jq/" target="blank">
-          <img class="tools-img" src="http://hemin.cn/jq/img/favicon.ico" />&nbsp;jQuery速查表
-        </a>
-      </div>
-    </a-col>
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="4">
       <div class="tools-width">
         <a class="tools-link" href="https://tool.lu/hexconvert/" target="blank">
