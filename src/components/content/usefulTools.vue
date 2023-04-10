@@ -17,7 +17,7 @@
         <a class="tools-link" href="https://www.lingdaima.com/" target="blank"
           ><img
             class="tools-img"
-            src="https://cxy521.com/static/img/index/tool/lingdaima.ico"
+            src="@/assets/tool/lingdaima.ico"
           />&nbsp;零代码 网页布局设计</a
         >
       </div>
@@ -91,7 +91,7 @@
         <a class="tools-link" href="https://tool.lu/timestamp/" target="blank"
           ><img
             class="tools-img"
-            src="https://cxy521.com/static/img/index/tool/timestamp.png"
+            src="@/assets/tool/timestamp.png"
           />&nbsp;时间戳转换</a
         >
       </div>
@@ -206,7 +206,7 @@
         <a class="tools-link" href="https://mp.weixin.qq.com/" target="blank"
           ><img
             class="tools-img"
-            src="https://cxy521.com/static/img/index/media/wx.ico"
+            src="@/assets/media/wx.ico"
           />&nbsp;微信公众号</a
         >
       </div>

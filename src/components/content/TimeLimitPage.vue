@@ -5,7 +5,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="1">
       <a class="tools-hover" href="http://www.itmind.net/15726.html" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://cxy521.com/static/img/index/limit/aliyun.png"
+          ><img class="tools-img" src="@/assets/limit/aliyun.png"
         /></div>
         <div class="content">
           <span class="title">阿里云资源</span>
@@ -16,7 +16,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="2">
       <a class="tools-hover" href="http://www.itmind.net/13235.html" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://cxy521.com/static/img/index/limit/qq_music.png"
+          ><img class="tools-img" src="@/assets/limit/qq_music.png"
         /></div>
         <div class="content">
           <span class="title">会员免费领</span>
@@ -27,7 +27,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="3">
       <a class="tools-hover" href="http://www.itmind.net/13398.html" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://cxy521.com/static/img/index/limit/typora.png"
+          ><img class="tools-img" src="@/assets/limit/typora.png"
         /></div>
         <div class="content">
           <span class="title">Typora免费版</span>
@@ -38,7 +38,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="4">
       <a class="tools-hover" href="http://www.itmind.net/13211.html" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://cxy521.com/static/img/index/limit/beyond_compare.png"
+          ><img class="tools-img" src="@/assets/limit/beyond_compare.png"
         /></div>
         <div class="content">
           <span class="title">BeyondCompare免费</span>
@@ -71,7 +71,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="7">
       <a class="tools-hover" href="http://www.itmind.net/12988.html" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://cxy521.com/static/img/index/limit/pycharm.png"
+          ><img class="tools-img" src="@/assets/limit/pycharm.png"
         /></div>
         <div class="content">
           <span class="title">pycharm免费版</span>
@@ -93,7 +93,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="9">
       <a class="tools-hover" href="http://www.itmind.net/12766.html" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://cxy521.com/static/img/index/limit/xshell.png"
+          ><img class="tools-img" src="@/assets/limit/xshell.png"
         /></div>
         <div class="content">
           <span class="title">Xshell免费版</span>
@@ -104,7 +104,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="10">
       <a class="tools-hover" href="http://www.itmind.net/12557.html" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://cxy521.com/static/img/index/devtool/navicat.png"
+          ><img class="tools-img" src="@/assets/devtool/navicat.png"
         /></div>
         <div class="content">
           <span class="title">Navicat免费版</span>
@@ -115,7 +115,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="11">
       <a class="tools-hover" href="http://www.itmind.net/12592.html" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://cxy521.com/static/img/index/limit/python.png"
+          ><img class="tools-img" src="@/assets/limit/python.png"
         /></div>
         <div class="content">
           <span class="title">python进阶100天</span>
@@ -126,7 +126,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="12">
       <a class="tools-hover" href="http://www.itmind.net/13268.html" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://cxy521.com/static/img/index/limit/likou.png"
+          ><img class="tools-img" src="@/assets/limit/likou.png"
         /></div>
         <div class="content">
           <span class="title">力扣刷题宝典</span>
@@ -137,7 +137,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="13">
       <a class="tools-hover" href="http://www.itmind.net/16068.html" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://cxy521.com/static/img/index/limit/jl.png"
+          ><img class="tools-img" src="@/assets/limit/jl.png"
         /></div>
         <div class="content">
           <span class="title">100套程序员简历模板</span>
@@ -148,7 +148,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="14">
       <a class="tools-hover" href="http://www.itmind.net/16027.html" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://cxy521.com/static/img/index/limit/git.jpg"
+          ><img class="tools-img" src="@/assets/limit/git.jpg"
         /></div>
         <div class="content">
           <span class="title">Git学习宝典</span>
@@ -159,7 +159,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="15">
       <a class="tools-hover" href="http://www.itmind.net/12846.html" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://cxy521.com/static/img/index/limit/network-pdf.png"
+          ><img class="tools-img" src="@/assets/limit/network-pdf.png"
         /></div>
         <div class="content">
           <span class="title">图解网络pdf</span>

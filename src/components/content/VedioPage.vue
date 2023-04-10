@@ -5,7 +5,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="1">
       <a class="tools-hover" href="http://xijing.tv/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/relax/xjtv.png"
+          ><img class="tools-img" src="@/assets/relax/xjtv.png"
         /></div>
         <div class="content">
           <span class="title">xijing</span>
@@ -16,7 +16,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="2">
       <a class="tools-hover" href="https://www.1993s.top/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/relax/zxzj.ico"
+          ><img class="tools-img" src="@/assets/relax/zxzj.ico"
         /></div>
         <div class="content">
           <span class="title">在线之家</span>
@@ -27,7 +27,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="3">
       <a class="tools-hover" href="https://www.meiju11.com/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/relax/mj.ico"
+          ><img class="tools-img" src="@/assets/relax/mj.ico"
         /></div>
         <div class="content">
           <span class="title">人人美剧</span>
@@ -38,7 +38,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="4">
       <a class="tools-hover" href="https://www.bttwo.com/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/video/bttwo.png"
+          ><img class="tools-img" src="@/assets/video/bttwo.png"
         /></div>
         <div class="content">
           <span class="title">两个BT</span>
@@ -49,7 +49,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="5">
       <a class="tools-hover" href="https://www.idybee.com" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/relax/dybee.png"
+          ><img class="tools-img" src="@/assets/relax/dybee.png"
         /></div>
         <div class="content">
           <span class="title">电影蜜蜂</span>
@@ -60,7 +60,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="6">
       <a class="tools-hover" href="https://yyets.dmesg.app/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/relax/yyet.png"
+          ><img class="tools-img" src="@/assets/relax/yyet.png"
         /></div>
         <div class="content">
           <span class="title">人人影视</span>
@@ -71,7 +71,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="7">
       <a class="tools-hover" href="http://tool.liumingye.cn/video/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/video/liumingye.ico"
+          ><img class="tools-img" src="@/assets/video/liumingye.ico"
         /></div>
         <div class="content">
           <span class="title">VIP视频解析</span>
@@ -93,7 +93,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="9">
       <a class="tools-hover" href="https://www.nunuyy.cc/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/resources/nu.ico"
+          ><img class="tools-img" src="@/assets/resources/nu.ico"
         /></div>
         <div class="content">
           <span class="title">努努影院</span>
@@ -104,7 +104,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="10">
       <a class="tools-hover" href="http://data.viggo.site/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/video/viggo.jpg"
+          ><img class="tools-img" src="@/assets/video/viggo.jpg"
         /></div>
         <div class="content">
           <span class="title">数据可视化</span>
@@ -115,7 +115,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="11">
       <a class="tools-hover" href="https://www.videvo.net/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/video/videvo.ico"
+          ><img class="tools-img" src="@/assets/video/videvo.ico"
         /></div>
         <div class="content">
           <span class="title">视频素材下载</span>
@@ -126,7 +126,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="12">
       <a class="tools-hover" href="https://www.savetweetvid.com/zh" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/resources/savetd.ico"
+          ><img class="tools-img" src="@/assets/resources/savetd.ico"
         /></div>
         <div class="content">
           <span class="title">Twitter视频下载器</span>
@@ -148,7 +148,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="14">
       <a class="tools-hover" href="https://myvoiceyourface.com/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/video/myvoiceyourface.png"
+          ><img class="tools-img" src="@/assets/video/myvoiceyourface.png"
         /></div>
         <div class="content">
           <span class="title">视频换脸</span>
@@ -159,7 +159,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="15">
       <a class="tools-hover" href="https://lv.ulikecam.com/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/resources/jy.jpg"
+          ><img class="tools-img" src="@/assets/resources/jy.jpg"
         /></div>
         <div class="content">
           <span class="title">剪映</span>
@@ -170,7 +170,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="16">
       <a class="tools-hover" href="http://anchor.avatarworks.com/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/video/avatarworks.ico"
+          ><img class="tools-img" src="@/assets/video/avatarworks.ico"
         /></div>
         <div class="content">
           <span class="title">黑镜AI</span>
@@ -181,7 +181,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="17">
       <a class="tools-hover" href="https://www.jijidown.com/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/video/jiji.ico"
+          ><img class="tools-img" src="@/assets/video/jiji.ico"
         /></div>
         <div class="content">
           <span class="title">唧唧下载器</span>

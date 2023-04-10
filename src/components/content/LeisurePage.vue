@@ -5,7 +5,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="1">
       <a class="tools-hover" href="http://buhuixiao.com" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://cxy521.com/static/img/index/relax/laughyouth.png"
+          ><img class="tools-img" src="@/assets/relax/laughyouth.png"
         /></div>
         <div class="content">
           <span class="title">程序员漫画</span>
@@ -38,7 +38,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="4">
       <a class="tools-hover" href="https://mo.fish" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://cxy521.com/static/img/index/relax/fish.ico"
+          ><img class="tools-img" src="@/assets/relax/fish.ico"
         /></div>
         <div class="content">
           <span class="title">鱼塘热榜</span>
@@ -49,7 +49,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="5">
       <a class="tools-hover" href="https://www.qiushibaike.com/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://cxy521.com/static/img/index/relax/baike.jpg"
+          ><img class="tools-img" src="@/assets/relax/baike.jpg"
         /></div>
         <div class="content">
           <span class="title">糗事百科</span>
@@ -60,7 +60,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="6">
       <a class="tools-hover" href="http://www.itmind.net/xbw/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://cxy521.com/static/img/index/relax/yx.png"
+          ><img class="tools-img" src="@/assets/relax/yx.png"
         /></div>
         <div class="content">
           <span class="title">怀旧游戏合集</span>
@@ -93,7 +93,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="9">
       <a class="tools-hover" href="http://adarkroom.doublespeakgames.com/?lang=zh_cn" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="http://www.cxy521.com/static/img/index/relax/adr.png"
+          ><img class="tools-img" src="@/assets/relax/adr.png"
         /></div>
         <div class="content">
           <span class="title">暗室</span>
@@ -115,7 +115,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="11">
       <a class="tools-hover" href="http://www.itmind.net/tetris/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="http://www.cxy521.com/static/img/index/relax/tetris.jpg"
+          ><img class="tools-img" src="@/assets/relax/tetris.jpg"
         /></div>
         <div class="content">
           <span class="title">俄罗斯方块</span>
@@ -126,7 +126,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="12">
       <a class="tools-hover" href="https://dig.chouti.com/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="http://www.cxy521.com/static/img/index/relax/chouti.png"
+          ><img class="tools-img" src="@/assets/relax/chouti.png"
         /></div>
         <div class="content">
           <span class="title">抽屉新热榜</span>
@@ -137,7 +137,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="13">
       <a class="tools-hover" href="https://www.webhek.com/post/draw-a-stickman.html" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="http://www.cxy521.com/static/img/index/relax/fwebhek.ico"
+          ><img class="tools-img" src="@/assets/relax/fwebhek.ico"
         /></div>
         <div class="content">
           <span class="title">神笔马良</span>
@@ -148,7 +148,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="14">
       <a class="tools-hover" href="https://findtheinvisiblecow.com" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="http://www.cxy521.com/static/img/index/relax/findtheinvisiblecow.png"
+          ><img class="tools-img" src="@/assets/relax/findtheinvisiblecow.png"
         /></div>
         <div class="content">
           <span class="title">找到那个牛</span>
@@ -159,7 +159,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="15">
       <a class="tools-hover" href="https://2020game.io/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="http://www.cxy521.com/static/img/index/relax/2020.png"
+          ><img class="tools-img" src="@/assets/relax/2020.png"
         /></div>
         <div class="content">
           <span class="title">2020游戏</span>
@@ -170,7 +170,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="16">
       <a class="tools-hover" href="https://mp.weixin.qq.com/s/LWagJEHnitxkYtXeCy3zRg" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="http://www.cxy521.com/static/img/index/relax/hongbao.png"
+          ><img class="tools-img" src="@/assets/relax/hongbao.png"
         /></div>
         <div class="content">
           <span class="title">外卖红包</span>
@@ -181,7 +181,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="17">
       <a class="tools-hover" href="https://strobe.cool/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="http://www.cxy521.com/static/img/index/relax/strobe.ico"
+          ><img class="tools-img" src="@/assets/relax/strobe.ico"
         /></div>
         <div class="content">
           <span class="title">扭曲世界</span>
@@ -192,7 +192,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="18">
       <a class="tools-hover" href="https://bouncyballs.org/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="http://www.cxy521.com/static/img/index/relax/bouncyballs.ico"
+          ><img class="tools-img" src="@/assets/relax/bouncyballs.ico"
         /></div>
         <div class="content">
           <span class="title">弹力球</span>
@@ -203,7 +203,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="19">
       <a class="tools-hover" href="https://neave.tv/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/relax/neave.ico"
+          ><img class="tools-img" src="@/assets/relax/neave.ico"
         /></div>
         <div class="content">
           <span class="title">搞笑视频</span>
@@ -214,7 +214,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="20">
       <a class="tools-hover" href="https://playsnake.org/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/relax/playsnake.ico"
+          ><img class="tools-img" src="@/assets/relax/playsnake.ico"
         /></div>
         <div class="content">
           <span class="title">贪吃蛇</span>
@@ -225,7 +225,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="21">
       <a class="tools-hover" href="https://zoom.earth/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/relax/earth.ico"
+          ><img class="tools-img" src="@/assets/relax/earth.ico"
         /></div>
         <div class="content">
           <span class="title">监测地球</span>
@@ -236,7 +236,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="22">
       <a class="tools-hover" href="https://bellwoods.xyz/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/relax/bellwoods.png"
+          ><img class="tools-img" src="@/assets/relax/bellwoods.png"
         /></div>
         <div class="content">
           <span class="title">在线放风筝</span>
@@ -247,7 +247,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="23">
       <a class="tools-hover" href="https://www.autopiano.cn" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/relax/autopiano.ico"
+          ><img class="tools-img" src="@/assets/relax/autopiano.ico"
         /></div>
         <div class="content">
           <span class="title">自由钢琴</span>
@@ -258,7 +258,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="24">
       <a class="tools-hover" href="https://bruno-simon.com/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/relax/simon.png"
+          ><img class="tools-img" src="@/assets/relax/simon.png"
         /></div>
         <div class="content">
           <span class="title">网页开车</span>
@@ -269,7 +269,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="24">
       <a class="tools-hover" href="http://www.heyzxz.me/pcol/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/relax/heyzxz.png"
+          ><img class="tools-img" src="@/assets/relax/heyzxz.png"
         /></div>
         <div class="content">
           <span class="title">台球游戏</span>
@@ -280,7 +280,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="24">
       <a class="tools-hover" href="http://flappybird.io/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/relax/flappybird.png"
+          ><img class="tools-img" src="@/assets/relax/flappybird.png"
         /></div>
         <div class="content">
           <span class="title">flappybird</span>
@@ -291,7 +291,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="24">
       <a class="tools-hover" href="https://lines.frvr.com/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/relax/playLinesFrvr.png"
+          ><img class="tools-img" src="@/assets/relax/playLinesFrvr.png"
         /></div>
         <div class="content">
           <span class="title">Play Lines FRVR</span>
@@ -302,7 +302,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="24">
       <a class="tools-hover" href="https://yzyx.info/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/efficiency/yizhi.png"
+          ><img class="tools-img" src="@/assets/efficiency/yizhi.png"
         /></div>
         <div class="content">
           <span class="title">益智游戏</span>
@@ -313,7 +313,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="24">
       <a class="tools-hover" href="https://www.yikm.net/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/relax/jieji.png"
+          ><img class="tools-img" src="@/assets/relax/jieji.png"
         /></div>
         <div class="content">
           <span class="title">街机游戏</span>
@@ -324,7 +324,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="24">
       <a class="tools-hover" href="http://www.staggeringbeauty.com/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/relax/yaoyao.png"
+          ><img class="tools-img" src="@/assets/relax/yaoyao.png"
         /></div>
         <div class="content">
           <span class="title">摇摇更快乐</span>
@@ -335,7 +335,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="24">
       <a class="tools-hover" href="https://gate.ofo.moe/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/relax/renyimen.png"
+          ><img class="tools-img" src="@/assets/relax/renyimen.png"
         /></div>
         <div class="content">
           <span class="title">任意门</span>
@@ -346,7 +346,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="24">
       <a class="tools-hover" href="https://deeeep.io/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/relax/deep.png"
+          ><img class="tools-img" src="@/assets/relax/deep.png"
         /></div>
         <div class="content">
           <span class="title">深海鱼大作战</span>
@@ -357,7 +357,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="24">
       <a class="tools-hover" href="https://deeeep.io/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/relax/deep.png"
+          ><img class="tools-img" src="@/assets/relax/deep.png"
         /></div>
         <div class="content">
           <span class="title">深海鱼大作战</span>
@@ -368,7 +368,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="24">
       <a class="tools-hover" href="https://oreo.ddiu.me/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/relax/aoliao.ico"
+          ><img class="tools-img" src="@/assets/relax/aoliao.ico"
         /></div>
         <div class="content">
           <span class="title">奥利奥生成器</span>
@@ -379,7 +379,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="24">
       <a class="tools-hover" href="https://strobe.cool/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/relax/huanjue.png"
+          ><img class="tools-img" src="@/assets/relax/huanjue.png"
         /></div>
         <div class="content">
           <span class="title">幻觉产生器</span>

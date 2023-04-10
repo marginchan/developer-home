@@ -155,7 +155,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="15">
       <a class="tools-hover" href="http://springcloud.fun/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/study/spring.png"
+          ><img class="tools-img" src="@/assets/study/spring.png"
         /></div>
         <div class="content">
           <span class="title">SpringCloud中文导航</span>
@@ -166,7 +166,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="16">
       <a class="tools-hover" href="http://techblog.pub/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/study/blog.jpg"
+          ><img class="tools-img" src="@/assets/study/blog.jpg"
         /></div>
         <div class="content">
           <span class="title">技术博客</span>
@@ -177,7 +177,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="17">
       <a class="tools-hover" href="https://www.coursera.org/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/study/coursera.ico"
+          ><img class="tools-img" src="@/assets/study/coursera.ico"
         /></div>
         <div class="content">
           <span class="title">coursera</span>
@@ -188,7 +188,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="18">
       <a class="tools-hover" href="https://kaiwu.lagou.com" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/study/lagou.png"
+          ><img class="tools-img" src="@/assets/study/lagou.png"
         /></div>
         <div class="content">
           <span class="title">拉钩教育</span>
@@ -199,7 +199,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="19">
       <a class="tools-hover" href="https://time.geekbang.org/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/study/time.jpg"
+          ><img class="tools-img" src="@/assets/study/time.jpg"
         /></div>
         <div class="content">
           <span class="title">极客时间</span>
@@ -210,7 +210,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="20">
       <a class="tools-hover" href="https://wiki.jikexueyuan.com/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/study/jk.jpg"
+          ><img class="tools-img" src="@/assets/study/jk.jpg"
         /></div>
         <div class="content">
           <span class="title">极客学院</span>
@@ -221,7 +221,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="21">
       <a class="tools-hover" href="https://www.captainai.net/puresmilex" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/study/ai.png"
+          ><img class="tools-img" src="@/assets/study/ai.png"
         /></div>
         <div class="content">
           <span class="title">人工智能教程</span>
@@ -232,7 +232,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="22">
       <a class="tools-hover" href="http://ife.baidu.com/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/code/ife-logo.png"
+          ><img class="tools-img" src="@/assets/code/ife-logo.png"
         /></div>
         <div class="content">
           <span class="title">百度前端技术学院</span>
@@ -245,7 +245,7 @@
         <div class="icon"
           ><img
             class="tools-img"
-            src="https://www.cxy521.com/static/img/index/code/freecodecamp.png"
+            src="@/assets/code/freecodecamp.png"
         /></div>
         <div class="content">
           <span class="title">freeCodeCamp</span>
