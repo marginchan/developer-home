@@ -13,9 +13,13 @@ module.exports = defineConfig({
   },
   chainWebpack: config => {
     config.module
-      .rule('image')
-      .test(/\.ico$/)
-      .use('url-loader')
-      .loader('url-loader')
+    .rule('images')
+    .test(/\.(png|jpe?g|gif|svg|ico)$/)
+    .use('url-loader')
+    .loader('url-loader')
+    .options({
+      limit: 1024
+    })
+    .end()
   },
 })
