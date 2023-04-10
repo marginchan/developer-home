@@ -5,7 +5,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="1">
       <a class="tools-hover" href="https://pc.qq.com/category/c13.html" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/devtool/pc-qq.png"
+          ><img class="tools-img" src="@/assets/devtool/pc-qq.png"
         /></div>
         <div class="content">
           <span class="title">软件下载中心</span>
@@ -16,7 +16,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="2">
       <a class="tools-hover" href="https://code.visualstudio.com/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/study/yibai.png"
+          ><img class="tools-img" src="@/assets/study/yibai.png"
         /></div>
         <div class="content">
           <span class="title">VSCode</span>
@@ -27,7 +27,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="3">
       <a class="tools-hover" href="https://www.w3school.com.cn/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/study/w3.png"
+          ><img class="tools-img" src="@/assets/study/w3.png"
         /></div>
         <div class="content">
           <span class="title">W3school</span>
@@ -38,7 +38,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="4">
       <a class="tools-hover" href="https://www.imooc.com/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/study/imooc.png"
+          ><img class="tools-img" src="@/assets/study/imooc.png"
         /></div>
         <div class="content">
           <span class="title">慕课网</span>
@@ -49,7 +49,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="5">
       <a class="tools-hover" href="https://gitbook.cn/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/study/gitchat.png"
+          ><img class="tools-img" src="@/assets/study/gitchat.png"
         /></div>
         <div class="content">
           <span class="title">Gitchat</span>
@@ -60,7 +60,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="6">
       <a class="tools-hover" href="https://www.bootcss.com/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/study/bootcss.ico"
+          ><img class="tools-img" src="@/assets/study/bootcss.ico"
         /></div>
         <div class="content">
           <span class="title">Bootstrap中文网</span>
@@ -71,7 +71,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="7">
       <a class="tools-hover" href="https://github.com/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/study/github.svg"
+          ><img class="tools-img" src="@/assets/study/github.svg"
         /></div>
         <div class="content">
           <span class="title">GitHub</span>
@@ -91,7 +91,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="9">
       <a class="tools-hover" href="https://www.bilibili.com/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/media/bili.ico"
+          ><img class="tools-img" src="@/assets/media/bili.ico"
         /></div>
         <div class="content">
           <span class="title">哔哩哔哩</span>
@@ -102,7 +102,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="10">
       <a class="tools-hover" href="https://www.icourse163.org/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/study/edu.png"
+          ><img class="tools-img" src="@/assets/study/edu.png"
         /></div>
         <div class="content">
           <span class="title">中国大学MOOC(慕课）</span>
@@ -122,7 +122,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="12">
       <a class="tools-hover" href="https://www.twle.cn/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/study/jian.png"
+          ><img class="tools-img" src="@/assets/study/jian.png"
         /></div>
         <div class="content">
           <span class="title">简单教程</span>
@@ -133,7 +133,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="13">
       <a class="tools-hover" href="http://www.manongjc.com/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/study/ma.ico"
+          ><img class="tools-img" src="@/assets/study/ma.ico"
         /></div>
         <div class="content">
           <span class="title">码农教程</span>
@@ -144,7 +144,7 @@
     <a-col :xs="12" :sm="8" :md="6" :lg="6" :xl="4" :order="14">
       <a class="tools-hover" href="http://springboot.fun/" target="blank">
         <div class="icon"
-          ><img class="tools-img" src="https://www.cxy521.com/static/img/index/study/spring.png"
+          ><img class="tools-img" src="@/assets/study/spring.png"
         /></div>
         <div class="content">
           <span class="title">SpringBoot中文导航</span>
