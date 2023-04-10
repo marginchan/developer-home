@@ -7,7 +7,7 @@
     >
       <img src="favicon.ico" class="a-icon" style="width: 32px" />
       <a-typography-title :level="3" class="a-title" style="color: #fff" v-if="tag"
-        >程序员导航</a-typography-title
+        >码富帅-开发者导航</a-typography-title
       >
       <a-dropdown v-if="!show">
         <a class="ant-dropdown-link" @click.prevent style="color: #fff">
@@ -150,7 +150,7 @@
       </a-layout>
     </a-layout-content>
     <a-layout-footer style="text-align: center">
-      Ant Design ©2018 Created by Alexander
+      <a href="https://beian.miit.gov.cn/" target="_blank">蜀ICP备13002734号-2</a>
     </a-layout-footer>
   </a-layout>
   <div id="components-back-top-demo-custom">
